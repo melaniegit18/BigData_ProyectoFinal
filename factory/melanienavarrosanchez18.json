@@ -1,0 +1,9 @@
+{
+	"name": "melanienavarrosanchez18",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4be7c671-84a4-456b-8e15-ec9947d1e4ea",
+		"tenantId": "0e0cb060-09ad-49f5-a005-68b9b49aa1f6"
+	}
+}
