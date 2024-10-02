@@ -13,7 +13,14 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": []
+				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Users/u201912651@upc.edu.pe/ingesta_capa_plata_oro"
+				},
+				"linkedServiceName": {
+					"referenceName": "AzureDatabricks_plata_oro",
+					"type": "LinkedServiceReference"
+				}
 			}
 		],
 		"annotations": []
